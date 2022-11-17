@@ -2,9 +2,6 @@
     "name"        : "crisp",
     "description" : "A minimalist, responsive, and open-source theme for Ghost",
     "version"     : "1.0.0",
-    "engines": {
-        "ghost-api": "v4"
-    },
     "license": "MIT",
     "screenshots": {
         "desktop": "assets/screenshot-desktop.png",
