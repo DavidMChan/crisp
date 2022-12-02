@@ -267,6 +267,8 @@ footer a:hover {
     html,
     body {
         font-size: 1em;
+        max-width: 1250px;
+        margin: auto;
     }
     .spacer {
         flex-grow: 1;
